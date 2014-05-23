@@ -1,5 +1,8 @@
 require 'awesome_pry/version'
+require 'pry-rails'
+require 'awesome_print'
 
 module AwesomePry
-  # Your code goes here...
 end
+
+AwesomePrint.pry!
