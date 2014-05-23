@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = AwesomePry::VERSION
   spec.authors       = ['Vsevolod Romashov']
   spec.email         = ['7@7vn.ru']
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ''
+  spec.summary       = %q{pry + awesome_print = happiness}
+  spec.description   = %q{Replaces your application's console with pry powered by awesome_print.}
+  spec.homepage      = 'https://github.com/7even/awesome_pry'
   spec.license       = 'MIT'
   
   spec.files         = `git ls-files -z`.split("\x0")

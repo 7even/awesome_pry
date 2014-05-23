@@ -1,6 +1,8 @@
 # AwesomePry
 
-TODO: Write a gem description
+AwesomePry replaces your application's console with
+[pry](https://github.com/pry/pry) powered by
+[awesome_print](https://github.com/michaeldv/awesome_print).
 
 ## Installation
 
@@ -16,15 +18,9 @@ And then execute:
 $ bundle
 ```
 
-Or install it yourself as:
-
-``` sh
-$ gem install awesome_pry
-```
-
 ## Usage
 
-TODO: Write usage instructions here
+Just launch your console as usual.
 
 ## Contributing
 
